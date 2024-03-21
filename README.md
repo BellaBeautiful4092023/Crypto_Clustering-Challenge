@@ -15,7 +15,7 @@ Create a DataFrame with the scaled data and set the "coin_id" index from the ori
 
 The first five rows of the scaled DataFrame should appear as follows:
 
-![image](https://github.com/BellaBeautiful4092023/Crypto_Clustering-Challenge/assets/147251051/231d308a-5c88-4420-8168-9b493fe1bcef)
+![image](https://github.com/BellaBeautiful4092023/Crypto_Clustering-Challenge/assets/147251051/08038929-5d6d-467b-aae2-30cbe6e667a2)
 
 
 
@@ -51,7 +51,7 @@ Create a new DataFrame with the PCA data and set the "coin_id" index from the or
 
 The first five rows of the PCA DataFrame should appear as follows:
 
-![Uploading image.png…]()
+![image](https://github.com/BellaBeautiful4092023/Crypto_Clustering-Challenge/assets/147251051/231d308a-5c88-4420-8168-9b493fe1bcef)
 
 
 
