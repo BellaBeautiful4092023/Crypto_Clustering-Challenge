@@ -15,6 +15,10 @@ Create a DataFrame with the scaled data and set the "coin_id" index from the ori
 
 The first five rows of the scaled DataFrame should appear as follows:
 
+![image](https://github.com/BellaBeautiful4092023/Crypto_Clustering-Challenge/assets/147251051/231d308a-5c88-4420-8168-9b493fe1bcef)
+
+
+
 The first five rows of the scaled DataFrame
 
 Find the Best Value for k Using the Original Scaled DataFrame
@@ -46,6 +50,10 @@ What is the total explained variance of the three principal components?
 Create a new DataFrame with the PCA data and set the "coin_id" index from the original DataFrame as the index for the new DataFrame.
 
 The first five rows of the PCA DataFrame should appear as follows:
+
+![Uploading image.png…]()
+
+
 
 The first five rows of the PCA DataFrame
 
